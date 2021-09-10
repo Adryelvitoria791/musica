@@ -15,6 +15,7 @@ namespace musica
             Console.WriteLine("De ser criança");
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("A gente brinca Na nossa velha infância");
+            Console.ResetColor();
         }
     }
 }
